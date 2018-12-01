@@ -1,0 +1,100 @@
+comercios,productos,precio,zonas,poderAdquisitivo
+Dia,agua,0.25,Andalucia,1500
+Dia,trigo,0.50,Andalucia,1500
+Dia,pasta,1.20,Andalucia,1500
+Dia,arroz,1,Andalucia,1500
+Dia,lentejas,0.75,Andalucia,1500
+Dia,patatas,1.62,Andalucia,1500
+Dia,huevos,1.32,Andalucia,1500
+Dia,aceite,7,Andalucia,1500
+Dia,fruta,1.20,Andalucia,1500
+Dia,azucar,1.34,Andalucia,1500
+
+Mercadona,agua,0.45,Andalucia,1500
+Mercadona,trigo,0.40,Andalucia,1500
+Mercadona,pasta,1.10,Andalucia,1500
+Mercadona,arroz,1.20,Andalucia,1500
+Mercadona,lentejas,0.95,Andalucia,1500
+Mercadona,patatas,1.32,Andalucia,1500
+Mercadona,huevos,1.12,Andalucia,1500
+Mercadona,aceite,6,Andalucia,1500
+Mercadona,fruta,1.10,Andalucia,1500
+Mercadona,azucar,1.04,Andalucia,1500
+
+Lidl,agua,0.10,Andalucia,1500
+Lidl,trigo,0.51,Andalucia,1500
+Lidl,pasta,1.23,Andalucia,1500
+Lidl,arroz,1,Andalucia,1500
+Lidl,lentejas,0.64,Andalucia,1500
+Lidl,patatas,1.03,Andalucia,1500
+Lidl,huevos,1.12,Andalucia,1500
+Lidl,aceite,7.12,Andalucia,1500
+Lidl,fruta,1.01,Andalucia,1500
+Lidl,azucar,1.04,Andalucia,1500
+
+Dia,agua,0.25,Murcia,1300
+Dia,trigo,0.50,Murcia,1300
+Dia,pasta,1.20,Murcia,1300
+Dia,arroz,1,Murcia,1300
+Dia,lentejas,0.75,Murcia,1300
+Dia,patatas,1.62,Murcia,1300
+Dia,huevos,1.32,Murcia,1300
+Dia,aceite,7,Murcia,1300
+Dia,fruta,1.20,Murcia,1300
+Dia,azucar,1.34,Murcia,1300
+
+Mercadona,agua,0.65,Murcia,1300
+Mercadona,trigo,0.70,Murcia,1300
+Mercadona,pasta,1.20,Murcia,1300
+Mercadona,arroz,0.33,Murcia,1300
+Mercadona,lentejas,0.35,Murcia,1300
+Mercadona,patatas,1.02,Murcia,1300
+Mercadona,huevos,1.24,Murcia,1300
+Mercadona,aceite,12,Murcia,1300
+Mercadona,fruta,1.60,Murcia,1300
+Mercadona,azucar,1.12,Murcia,1300
+
+Lidl,agua,0.55,Murcia,1300
+Lidl,trigo,0.60,Murcia,1300
+Lidl,pasta,1.40,Murcia,1300
+Lidl,arroz,1.90,Murcia,1300
+Lidl,lentejas,1.45,Murcia,1300
+Lidl,patatas,1.32,Murcia,1300
+Lidl,huevos,1.52,Murcia,1300
+Lidl,aceite,10,Murcia,1300
+Lidl,fruta,1.60,Murcia,1300
+Lidl,azucar,1.34,Murcia,1300
+
+Dia,agua,0.45,Castilla La Mancha,1700
+Dia,trigo,0.53,Castilla La Mancha,1700
+Dia,pasta,1.16,Castilla La Mancha,1700
+Dia,arroz,1.20,Castilla La Mancha,1700
+Dia,lentejas,0.35,Castilla La Mancha,1700
+Dia,patatas,1.22,Castilla La Mancha,1700
+Dia,huevos,1.92,Castilla La Mancha,1700
+Dia,aceite,9,Castilla La Mancha,1700
+Dia,fruta,1.46,Castilla La Mancha,1700
+Dia,azucar,1.23,Castilla La Mancha,1700
+
+Mercadona,agua,0.65,Castilla La Mancha,1700
+Mercadona,trigo,0.70,Castilla La Mancha,1700	
+Mercadona,pasta,1.20,Castilla La Mancha,1700
+Mercadona,arroz,0.33,Castilla La Mancha,1700
+Mercadona,lentejas,0.35,Castilla La Mancha,1700
+Mercadona,patatas,1.02,Castilla La Mancha,1700
+Mercadona,huevos,1.24,Castilla La Mancha,1700
+Mercadona,aceite,12,Castilla La Mancha,1700
+Mercadona,fruta,1.60,Castilla La Mancha,1700
+Mercadona,azucar,1.12,Castilla La Mancha,1700
+
+Lidl,agua,0.55,Castilla La Mancha,1700
+Lidl,trigo,0.60,Castilla La Mancha,1700
+Lidl,pasta,1.40,Castilla La Mancha,1700
+Lidl,arroz,1.90,Castilla La Mancha,1700
+Lidl,lentejas,1.45,Castilla La Mancha,1700
+Lidl,patatas,1.32,Castilla La Mancha,1700
+Lidl,huevos,1.52,Castilla La Mancha,1700
+Lidl,aceite,10,Castilla La Mancha,1700
+Lidl,fruta,1.60,Castilla La Mancha,1700
+Lidl,azucar,1.34,Castilla La Mancha,1700
+
